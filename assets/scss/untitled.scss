@@ -1,0 +1,81 @@
+/* Variable colors set */
+:root{
+    
+    --backgroundcolor: #000000;
+    --textcolor:#ffffff;
+}
+/* class created for the Nav bars */
+.navbar.darkbackground {
+  opacity: .8;
+  background-color: var(--backgroundcolor);
+}
+/* class crerated for the content inside the nav bar  */
+.navbar.link {
+color: var(--textcolor);
+font-size: 10px;
+}
+/* class created for the logo on the top left of the nav bar */
+.logonavbar {
+  max-width: 43px;
+}
+/* class created for the introduction section index page */
+.Introduction {
+padding-top: 80px;
+text-align: center;
+color: var(--textcolor);
+background-color: var(--backgroundcolor);
+}
+/* Class for introduction sub section h1 */
+.Introduction h1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+/* Class for instroduction sub section h2 */
+.Introduction h2 {
+  font-size: 27px;
+  font-weight: 400;
+}
+
+/* Class created for information at index page */
+.information {
+  color: var(--textcolor);
+  background-color: var(--backgroundcolor);
+}
+/* Class for information sub section to create padding */
+.information p {
+  padding: 10px;
+}
+/* Class for information section h1 */
+.information h1 {
+  padding-top: 50px;
+  text-align: center;
+  padding-top: 20px;
+}
+/* Class for information section h2 */
+.information h2 {
+  text-align: left;
+}
+/* class for History */
+.History {
+  padding-top: 80px;
+}
+/* Class created for the division heading */
+.divisionheader {
+  color: var(--bs-teal);
+}
+/* Class for the table content body */
+.tablebody {
+  color: var(--textcolor);
+}
+/* class to change size of the glsa footer */
+.glsafooter {
+  font-size: 40px;
+}
+/* Class to change the size of descriptipn of photo */
+.TextJohn {
+  font-size: 20px;
+}
+/* Class for the glsa logo on ContactUs form */
+.logoglsa {
+  padding-bottom: 20px;
+}
