@@ -2,7 +2,7 @@
 
 ## Deployed
 
-https://carstensmartin.github.io/Level-1-Task-15-deployed--Capstone-Project-III-Create-a-web-page-using-HTML-and-SCSS/
+https://carstensmartin.github.io/Level-1-Task-15-Deployed--Capstone-Project-III-Create-a-web-page-using-HTML-and-SCSS/
 
 ## Task
 
